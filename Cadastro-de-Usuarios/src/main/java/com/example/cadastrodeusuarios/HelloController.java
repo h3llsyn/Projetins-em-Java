@@ -22,9 +22,9 @@ public class HelloController {
     @FXML
     private void cadastrarUsuario() {
         String nomeUsuario = input.getText();
-        if (nomeUsuario.length() >= 2 || listViewUsuarios.contains(nomeUsuario)) {
+  //      if (nomeUsuario.length() >= 2 || listViewUsuarios.contains(nomeUsuario)) {
             listViewUsuarios.getItems().add(nomeUsuario);
-        }
+     //   }
     }
 }
 
