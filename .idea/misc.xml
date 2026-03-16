@@ -6,7 +6,17 @@
       <list>
         <option value="$PROJECT_DIR$/Cantina-JavaFX/pom.xml" />
         <option value="$PROJECT_DIR$/Cadastro-de-Usuarios/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatGPT-Projeto/pom.xml" />
+        <option value="$PROJECT_DIR$/ClaudeProjeto/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjetaoGPT/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ChatGPT-Projeto/pom.xml" />
+        <option value="$PROJECT_DIR$/ClaudeProjeto/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjetaoGPT/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">

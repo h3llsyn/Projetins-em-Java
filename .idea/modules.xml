@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Controle de Gastos - Projeto/Controle de Gastos - Projeto.iml" filepath="$PROJECT_DIR$/Controle de Gastos - Projeto/Controle de Gastos - Projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projetins-em-Java.iml" filepath="$PROJECT_DIR$/Projetins-em-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/To-do List/To-do List.iml" filepath="$PROJECT_DIR$/To-do List/To-do List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cafezin/cafezin.iml" filepath="$PROJECT_DIR$/cafezin/cafezin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabuada/tabuada.iml" filepath="$PROJECT_DIR$/tabuada/tabuada.iml" />
     </modules>
   </component>
 </project>

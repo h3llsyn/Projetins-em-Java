@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Cantina-JavaFX" />
         <module name="Cadastro-de-Usuarios" />
+        <module name="Cantina-JavaFX" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChatGPT-Projeto" target="21" />
+      <module name="ClaudeProjeto" target="21" />
+      <module name="ProjetaoGPT" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
